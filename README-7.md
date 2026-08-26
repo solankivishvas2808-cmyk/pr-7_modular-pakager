@@ -570,39 +570,6 @@ The project provides hands-on practice with both built-in and user-created modul
 
 ---
 
-## 📸 PROJECT SCREENSHOTS
-
-> Screenshots of the actual application can be added below.
-
-### 🖥️ Main Menu
-
-![Main Menu](screenshots/main-menu.png)
-
-### 📅 Date & Time Operations
-
-![Date & Time](screenshots/datetime-operations.png)
-
-### 🧮 Mathematical Operations
-
-![Mathematical Operations](screenshots/mathematical-operations.png)
-
-### 🎲 Random Data Generation
-
-![Random Data](screenshots/random-data.png)
-
-### 🆔 UUID Generation
-
-![UUID Generation](screenshots/uuid-generation.png)
-
-### 📁 File Operations
-
-![File Operations](screenshots/file-operations.png)
-
-### 🔍 Module Exploration
-
-![Module Exploration](screenshots/module-exploration.png)
-
----
 
 ## 🔮 FUTURE IMPROVEMENTS
 
@@ -645,7 +612,9 @@ This project is currently provided for **educational and demonstration purposes*
 
 ## 👨‍💻 AUTHOR
 
-**Your Name**
+**vishvas solanki**
+guide by girth sir
+built with python
 
 > Python Developer • Student • Programming Enthusiast 🐍
 
